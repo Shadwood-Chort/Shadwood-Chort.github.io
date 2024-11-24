@@ -1,0 +1,35 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-family: Papyrus, Garamond, Times New Roman;
+  color: navy;
+  text-align: center;
+}
+
+h2{
+  font-family: Papyrus, Garamond, Times New Roman;
+}
+
+ul{
+  font-family: Papyrus, Garamond, Times New Roman;
+}
+
+p{
+  font-family: Papyrus, Garamond, Times New Roman;
+  text-align: center;
+}
+
+p3{
+  font-family: Papyrus, Garamond, Times New Roman;
+  text-align: center;
+  color: #fff684;
+}
+
+p4{
+  font-family: Papyrus, Garamond, Times New Roman;
+  text-align: center;
+  color: #9370DC;
+}
+
